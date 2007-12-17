@@ -11,7 +11,6 @@ Source:		%{name}-%{version}.tar.bz2
 URL:		http://gqapplets.sourceforge.net/
 License:	GPL
 Group:		Graphical desktop/GNOME
-BuildRoot:	%{_tmppath}/%{name}-buildroot
 BuildRequires:	pkgconfig GConf2 libgnomeui2-devel libpanel-applet-2-devel gettext
 
 %description
