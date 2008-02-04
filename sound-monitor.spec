@@ -3,7 +3,7 @@
 %define release %mkrel 3
 
 Name: 	 	%{name}
-Summary: 	Audio panel accessories for GNOME2.
+Summary: 	Audio panel accessories for GNOME2
 Version: 	%{version}
 Release: 	%{release}
 
