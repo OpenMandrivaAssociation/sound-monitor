@@ -12,6 +12,11 @@ URL:		https://gqapplets.sourceforge.net/
 License:	GPL
 Group:		Graphical desktop/GNOME
 BuildRoot:	%{_tmppath}/%{name}-buildroot
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	pkgconfig GConf2 libgnomeui2-devel libpanel-applet-2-devel gettext
 
 %description
