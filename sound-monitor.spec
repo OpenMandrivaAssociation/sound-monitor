@@ -1,6 +1,6 @@
 %define name	sound-monitor
 %define version	1.99.0
-%define release %mkrel 8
+%define release 9
 
 Name: 	 	%{name}
 Summary: 	Audio panel accessories for GNOME2
